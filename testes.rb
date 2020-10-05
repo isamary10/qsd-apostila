@@ -27,4 +27,5 @@ numero = gets.to_i() # o ti_i transforma uma string em número
 10 % 2 # resto da divisão
 10.positive?() # informa se o valor é positivo
 -1.negative?() # informa se o valor é negativo
-1.odd? # informa se o valor é impar
+1.odd?() # informa se o valor é impar
+4.even?() # informa se o valor é par
